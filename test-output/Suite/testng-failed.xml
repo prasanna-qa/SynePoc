@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="org.sync.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="verifyInvalidLogin"/>
+          <include name="verifyLoginPageLogo"/>
+          <include name="verifyValidLogin"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyForgotPasswordLink"/>
+        </methods>
+      </class> <!-- org.sync.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

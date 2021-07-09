@@ -1,0 +1,16 @@
+{
+  "crdentials" : {
+    "it" : {
+      "username" : "prasay@jj.com",
+      "password" : "efd"
+    },
+    "uat" : {
+      "username" : "prasay@jj.com",
+      "password" : "efd"
+    },
+    "prod" : {
+      "username" : "prasay@jj.com",
+      "password" : "efd"
+    }
+  }
+}

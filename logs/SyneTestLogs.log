@@ -1,0 +1,371 @@
+[INFO ] 2021-06-25 08:02:53.677 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:02:53.685 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:02:53.723 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:02:53.723 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:02:53.733 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:02:53.734 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:02:53.782 [main] Log - Test Suite Started
+[INFO ] 2021-06-25 08:02:54.817 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:02:54.817 [TestNG-test=Test-3] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:02:54.817 [TestNG-test=Test-2] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:02:54.819 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-06-25 08:02:54.819 [TestNG-test=Test-2] Log - Checking for browser option
+[INFO ] 2021-06-25 08:02:54.819 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:02:54.819 [TestNG-test=Test-2] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:02:54.819 [TestNG-test=Test-3] Log - Checking for browser option
+[INFO ] 2021-06-25 08:02:54.820 [TestNG-test=Test-3] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:11:06.811 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:11:06.820 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:11:06.862 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:11:06.863 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:11:06.876 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:11:06.877 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:11:06.939 [main] Log - Test Suite Started
+[INFO ] 2021-06-25 08:11:07.886 [TestNG-test=Test-2] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:11:07.886 [TestNG-test=Test-3] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:11:07.886 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:11:07.888 [TestNG-test=Test-2] Log - Checking for browser option
+[INFO ] 2021-06-25 08:11:07.888 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-06-25 08:11:07.888 [TestNG-test=Test-3] Log - Checking for browser option
+[INFO ] 2021-06-25 08:11:07.888 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:11:07.888 [TestNG-test=Test-2] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:11:07.889 [TestNG-test=Test-3] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:11:13.804 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:11:13.944 [TestNG-test=Test-2] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:11:14.013 [TestNG-test=Test-3] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:12:04.493 [TestNG-test=Test-3] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:12:04.493 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:12:04.493 [TestNG-test=Test-2] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:12:14.649 [TestNG-test=Test-2] Log - Deleting cookies
+[INFO ] 2021-06-25 08:12:14.668 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-06-25 08:12:14.676 [TestNG-test=Test-3] Log - Deleting cookies
+[INFO ] 2021-06-25 08:12:14.696 [TestNG-test=Test-2] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:12:14.704 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:12:14.713 [TestNG-test=Test-2] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:12:14.713 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:12:14.714 [TestNG-test=Test-3] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:12:14.722 [TestNG-test=Test-3] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:12:22.345 [TestNG-test=Test-2] Log - Reading the properties File
+[INFO ] 2021-06-25 08:12:22.345 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-06-25 08:12:56.345 [TestNG-test=Test-1] Log - Validated navigation of register link
+[INFO ] 2021-06-25 08:14:00.299 [TestNG-test=Test-3] Log - Reading the properties File
+[INFO ] 2021-06-25 08:14:00.319 [TestNG-test=Test-3] Log - Clicking on login link
+[INFO ] 2021-06-25 08:16:26.589 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:16:26.604 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:16:26.657 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:16:26.658 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:16:26.669 [main] Log - Loading the properties File
+[INFO ] 2021-06-25 08:16:26.670 [main] Log - Reading the properties File
+[INFO ] 2021-06-25 08:16:26.738 [main] Log - Test Suite Started
+[INFO ] 2021-06-25 08:16:27.713 [TestNG-test=Test-3] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:16:27.713 [TestNG-test=Test-2] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:16:27.713 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:16:27.715 [TestNG-test=Test-2] Log - Checking for browser option
+[INFO ] 2021-06-25 08:16:27.715 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-06-25 08:16:27.715 [TestNG-test=Test-3] Log - Checking for browser option
+[INFO ] 2021-06-25 08:16:27.716 [TestNG-test=Test-2] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:16:27.716 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:16:27.716 [TestNG-test=Test-3] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:16:34.582 [TestNG-test=Test-2] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:16:34.602 [TestNG-test=Test-3] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:16:38.456 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:16:53.916 [TestNG-test=Test-2] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:16:53.916 [TestNG-test=Test-3] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:16:54.392 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-06-25 08:17:09.368 [TestNG-test=Test-3] Log - Deleting cookies
+[INFO ] 2021-06-25 08:17:09.426 [TestNG-test=Test-2] Log - Deleting cookies
+[INFO ] 2021-06-25 08:17:09.430 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-06-25 08:17:09.634 [TestNG-test=Test-3] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:17:09.634 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:17:09.655 [TestNG-test=Test-3] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:17:09.655 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:17:09.656 [TestNG-test=Test-2] Log - Settting implicit wait
+[INFO ] 2021-06-25 08:17:09.663 [TestNG-test=Test-2] Log - Instantiating page classes
+[INFO ] 2021-06-25 08:17:11.812 [TestNG-test=Test-2] Log - Loading the properties File
+[INFO ] 2021-06-25 08:17:11.812 [TestNG-test=Test-3] Log - Loading the properties File
+[INFO ] 2021-06-25 08:17:11.812 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-06-25 08:17:11.928 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-06-25 08:17:11.928 [TestNG-test=Test-2] Log - Reading the properties File
+[INFO ] 2021-06-25 08:17:11.928 [TestNG-test=Test-3] Log - Reading the properties File
+[INFO ] 2021-06-25 08:17:14.922 [TestNG-test=Test-3] Log - Clicking on login link
+[INFO ] 2021-06-25 08:17:54.083 [TestNG-test=Test-4] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:17:54.085 [TestNG-test=Test-6] Log - Setting up the predondition
+[INFO ] 2021-06-25 08:17:54.085 [TestNG-test=Test-4] Log - Checking for browser option
+[INFO ] 2021-06-25 08:17:54.088 [TestNG-test=Test-4] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:17:54.089 [TestNG-test=Test-6] Log - Checking for browser option
+[INFO ] 2021-06-25 08:17:54.089 [TestNG-test=Test-6] Log - Launching Chrome Browser
+[INFO ] 2021-06-25 08:18:02.106 [TestNG-test=Test-6] Log - Reading and hitting the base url
+[INFO ] 2021-06-25 08:18:15.267 [TestNG-test=Test-4] Log - Maximizing browser window
+[INFO ] 2021-06-26 14:14:21.354 [main] Log - Loading the properties File
+[INFO ] 2021-06-26 14:14:21.382 [main] Log - Reading the properties File
+[INFO ] 2021-06-26 14:14:21.590 [main] Log - Test Suite Started
+[INFO ] 2021-06-26 14:14:23.757 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-06-26 14:14:23.759 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-06-26 14:14:23.759 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-06-26 14:14:47.209 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-06-26 14:14:56.566 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-06-26 14:15:01.949 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-06-26 14:15:03.056 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-06-26 14:15:03.314 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-06-26 14:15:04.845 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-06-26 14:15:05.012 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-06-26 14:15:22.953 [TestNG-test=Test-1] Log - Clicking on login link
+[INFO ] 2021-06-26 14:15:49.844 [TestNG-test=Test-1] Log - Entering username and password
+[INFO ] 2021-06-26 14:15:54.735 [TestNG-test=Test-1] Log - Quiting the browser window after each test
+[INFO ] 2021-06-26 14:15:54.981 [main] Log - Test Suite Ended
+[INFO ] 2021-06-26 14:17:25.260 [main] Log - Loading the properties File
+[INFO ] 2021-06-26 14:17:25.280 [main] Log - Reading the properties File
+[INFO ] 2021-06-26 14:17:25.466 [main] Log - Setting up the predondition
+[INFO ] 2021-06-26 14:17:25.466 [main] Log - Checking for browser option
+[INFO ] 2021-06-26 14:17:25.467 [main] Log - Launching Chrome Browser
+[INFO ] 2021-06-26 14:17:31.876 [main] Log - Reading and hitting the base url
+[INFO ] 2021-06-26 14:17:38.948 [main] Log - Maximizing browser window
+[INFO ] 2021-06-26 14:17:39.291 [main] Log - Deleting cookies
+[INFO ] 2021-06-26 14:17:40.758 [main] Log - Settting implicit wait
+[INFO ] 2021-06-26 14:17:40.770 [main] Log - Instantiating page classes
+[INFO ] 2021-06-26 14:17:40.852 [main] Log - Loading the properties File
+[INFO ] 2021-06-26 14:17:40.853 [main] Log - Reading the properties File
+[INFO ] 2021-06-26 14:17:42.728 [main] Log - Quiting the browser window after each test
+[INFO ] 2021-06-26 14:22:14.774 [main] Log - Loading the properties File
+[INFO ] 2021-06-26 14:22:14.785 [main] Log - Reading the properties File
+[INFO ] 2021-06-26 14:22:14.896 [main] Log - Test Suite Started
+[INFO ] 2021-06-26 14:22:16.296 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-06-26 14:22:16.297 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-06-26 14:22:16.297 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-06-26 14:22:23.561 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-06-26 14:22:34.681 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-06-26 14:22:34.963 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-06-26 14:22:36.651 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-06-26 14:22:36.663 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-06-26 14:22:36.742 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-06-26 14:22:36.743 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-06-26 14:22:37.482 [TestNG-test=Test-1] Log - Clicking on login link
+[INFO ] 2021-06-26 14:22:45.043 [TestNG-test=Test-1] Log - Entering username and password
+[INFO ] 2021-07-09 15:25:51.698 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:25:51.844 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:25:51.924 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:25:51.925 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:25:51.928 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:25:51.928 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:25:52.051 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:25:54.748 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:25:54.748 [TestNG-test=Test-2] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:25:54.750 [TestNG-test=Test-2] Log - Checking for browser option
+[INFO ] 2021-07-09 15:25:54.750 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:25:54.750 [TestNG-test=Test-2] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:25:54.750 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:26:25.822 [TestNG-test=Test-2] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:26:25.822 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:26:35.151 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:26:37.442 [TestNG-test=Test-2] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:26:37.971 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:26:38.010 [TestNG-test=Test-2] Log - Deleting cookies
+[INFO ] 2021-07-09 15:26:39.915 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:26:39.918 [TestNG-test=Test-2] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:26:39.985 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:26:39.985 [TestNG-test=Test-2] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:26:42.238 [TestNG-test=Test-2] Log - Loading the properties File
+[INFO ] 2021-07-09 15:26:42.238 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:26:42.391 [TestNG-test=Test-2] Log - Reading the properties File
+[INFO ] 2021-07-09 15:26:42.391 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:26:59.764 [TestNG-test=Test-1] Log - Validated navigation of register link
+[INFO ] 2021-07-09 15:27:04.796 [TestNG-test=Test-1] Log - Quiting the browser window after each test
+[INFO ] 2021-07-09 15:27:04.798 [TestNG-test=Test-4] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:27:04.799 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:27:04.800 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:27:04.800 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:27:04.799 [TestNG-test=Test-4] Log - Checking for browser option
+[INFO ] 2021-07-09 15:27:04.805 [TestNG-test=Test-4] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:27:08.592 [TestNG-test=Test-4] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:27:09.268 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:27:13.443 [TestNG-test=Test-4] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:27:22.928 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:27:24.559 [TestNG-test=Test-4] Log - Deleting cookies
+[INFO ] 2021-07-09 15:27:24.576 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:27:31.693 [TestNG-test=Test-4] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:27:31.698 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:27:31.761 [TestNG-test=Test-4] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:27:31.761 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:27:31.763 [TestNG-test=Test-4] Log - Loading the properties File
+[INFO ] 2021-07-09 15:27:31.764 [TestNG-test=Test-4] Log - Reading the properties File
+[INFO ] 2021-07-09 15:27:31.767 [TestNG-test=Test-4] Log - Verifying presence of Contact ID
+[INFO ] 2021-07-09 15:27:31.992 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:27:31.993 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:27:40.223 [TestNG-test=Test-4] Log - Quiting the browser window after each test
+[INFO ] 2021-07-09 15:27:47.222 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:27:47.222 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:27:47.222 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:27:55.791 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:28:14.103 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:28:14.729 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:28:16.162 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:28:16.167 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:28:16.168 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:28:16.168 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:28:32.198 [TestNG-test=Test-1] Log - Validated navigation of Login link
+[INFO ] 2021-07-09 15:28:35.501 [TestNG-test=Test-1] Log - Quiting the browser window after each test
+[INFO ] 2021-07-09 15:28:38.185 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:34:13.140 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:34:13.164 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:34:13.187 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:34:13.188 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:34:13.193 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:34:13.193 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:34:13.233 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:34:18.564 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:34:18.564 [TestNG-test=Test-2] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:34:18.565 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:34:18.565 [TestNG-test=Test-2] Log - Checking for browser option
+[INFO ] 2021-07-09 15:34:18.566 [TestNG-test=Test-2] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:34:18.566 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:34:43.930 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:34:43.930 [TestNG-test=Test-2] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:35:20.380 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:35:21.170 [TestNG-test=Test-2] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:35:21.613 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:35:22.056 [TestNG-test=Test-2] Log - Deleting cookies
+[INFO ] 2021-07-09 15:35:32.427 [TestNG-test=Test-2] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:35:32.608 [TestNG-test=Test-2] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:35:34.893 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:35:34.897 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:35:35.771 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:35:35.771 [TestNG-test=Test-2] Log - Loading the properties File
+[INFO ] 2021-07-09 15:35:35.949 [TestNG-test=Test-2] Log - Reading the properties File
+[INFO ] 2021-07-09 15:35:35.949 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:36:05.577 [TestNG-test=Test-4] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:36:05.577 [TestNG-test=Test-5] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:36:05.579 [TestNG-test=Test-4] Log - Checking for browser option
+[INFO ] 2021-07-09 15:36:05.581 [TestNG-test=Test-4] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:36:05.582 [TestNG-test=Test-5] Log - Checking for browser option
+[INFO ] 2021-07-09 15:36:05.582 [TestNG-test=Test-5] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:36:23.792 [TestNG-test=Test-4] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:36:24.818 [TestNG-test=Test-5] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:36:28.802 [TestNG-test=Test-4] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:37:04.877 [TestNG-test=Test-5] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:37:05.905 [TestNG-test=Test-5] Log - Loading the properties File
+[INFO ] 2021-07-09 15:37:05.906 [TestNG-test=Test-5] Log - Reading the properties File
+[INFO ] 2021-07-09 15:37:18.884 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:45:49.933 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:45:49.941 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:45:49.989 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:45:50.621 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:45:50.621 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:45:50.622 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:45:53.355 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:46:03.910 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:46:09.486 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:46:10.520 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:46:10.553 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:46:10.761 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:46:10.761 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:46:13.482 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:49:09.114 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:49:09.156 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:49:09.193 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:49:09.578 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:49:09.579 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:49:09.579 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:49:12.666 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:49:17.926 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:49:18.220 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:49:22.748 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:49:22.753 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:49:23.004 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:49:23.004 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:49:30.497 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:51:04.527 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:51:04.530 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:51:04.581 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:51:05.571 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:51:05.571 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:51:05.571 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:51:14.539 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:51:24.375 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:51:24.779 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:51:25.491 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:51:25.498 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:51:28.744 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:51:28.745 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:51:37.499 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:53:05.577 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:53:05.594 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:53:05.652 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:53:06.460 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:53:06.461 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:53:06.461 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:53:10.017 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:53:13.693 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:53:14.457 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:53:15.483 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:53:15.488 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:53:16.427 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:53:16.428 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:53:18.116 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:54:25.070 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:54:25.074 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:54:25.119 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:54:25.750 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:54:25.751 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:54:25.751 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:54:31.187 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:54:45.804 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:54:46.072 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:54:50.183 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:54:50.188 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:54:51.532 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:54:51.532 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:55:02.653 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 15:55:44.996 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 15:55:45.013 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 15:55:45.082 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 15:55:46.036 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 15:55:46.037 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 15:55:46.037 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 15:56:00.577 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 15:56:12.597 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 15:56:12.929 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 15:56:13.550 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 15:56:13.555 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 15:56:18.413 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 15:56:18.414 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 15:56:28.840 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 16:10:34.248 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 16:10:34.269 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 16:10:34.308 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 16:10:34.758 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 16:10:34.759 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 16:10:34.759 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 16:10:40.643 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 16:10:44.653 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 16:10:45.406 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 16:10:49.962 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 16:10:49.967 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 16:10:49.991 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 16:10:49.991 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 16:10:57.858 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 16:15:50.751 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 16:15:50.754 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 16:15:50.793 [main] Log - Test Suite Started
+[INFO ] 2021-07-09 16:15:51.164 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 16:15:51.165 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 16:15:51.165 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 16:15:54.609 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 16:15:58.308 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 16:15:58.538 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 16:15:59.517 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 16:15:59.522 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 16:16:00.486 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 16:16:00.487 [TestNG-test=Test-1] Log - Reading the properties File
+[INFO ] 2021-07-09 16:16:13.390 [main] Log - Test Suite Ended
+[INFO ] 2021-07-09 16:19:22.363 [main] Log - Loading the properties File
+[INFO ] 2021-07-09 16:19:22.368 [main] Log - Reading the properties File
+[INFO ] 2021-07-09 16:19:22.442 [TestNG-test=Test-1] Log - Setting up the predondition
+[INFO ] 2021-07-09 16:19:22.442 [TestNG-test=Test-1] Log - Checking for browser option
+[INFO ] 2021-07-09 16:19:22.442 [TestNG-test=Test-1] Log - Launching Chrome Browser
+[INFO ] 2021-07-09 16:19:28.894 [TestNG-test=Test-1] Log - Reading and hitting the base url
+[INFO ] 2021-07-09 16:19:34.373 [TestNG-test=Test-1] Log - Maximizing browser window
+[INFO ] 2021-07-09 16:19:34.617 [TestNG-test=Test-1] Log - Deleting cookies
+[INFO ] 2021-07-09 16:19:35.480 [TestNG-test=Test-1] Log - Settting implicit wait
+[INFO ] 2021-07-09 16:19:35.484 [TestNG-test=Test-1] Log - Instantiating page classes
+[INFO ] 2021-07-09 16:19:39.840 [TestNG-test=Test-1] Log - Loading the properties File
+[INFO ] 2021-07-09 16:19:39.840 [TestNG-test=Test-1] Log - Reading the properties File

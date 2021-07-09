@@ -1,0 +1,16 @@
+{
+	"crdentials": {
+		"it": {
+			"username": "prasy.prasanna9@gmai.com",
+			"password": "UHJhc2FubmFAOQ=="
+		},
+		"uat": {
+			"username": "prasy.uat@gmai.com",
+			"password": ""
+		},
+		"prod": {
+			"username": "prasy.it@gmai.com",
+			"password": ""
+		}
+	}
+}
